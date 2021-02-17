@@ -14,7 +14,7 @@
 
 # Build results
 
-#   For now teh debug folder is empty & we dont know yet if we may need it latter 
+#   For now teh debug folder is empty & we dont know yet if we may need it later 
 #   [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
@@ -31,7 +31,7 @@ bld/
 
 #   As this repository serve me as a reference for future project
 #   my own little framework (that start to grow xD)
-#   everything is commited ! I just have to uncomment the necessary lines letter 
+#   everything is commited ! I just have to uncomment the necessary lines later 
 
 ##  VScode
 #   .vscode
