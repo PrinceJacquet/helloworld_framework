@@ -16,8 +16,8 @@
                 "isDefault": true
             },
             "presentation": {
-                //"reveal":"always"
-                "reveal":"never"
+                "reveal":"always"
+                //"reveal":"never"
             },
             "problemMatcher": "$gcc"
         }
